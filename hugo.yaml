@@ -1,0 +1,67 @@
+baseURL: https://subcultureofone.org/
+languageCode: en-us
+title: Subculture of One
+theme: ["PaperMod"]
+#enableGitInfo: true
+pagination:
+  pagersize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pluralizelisttitles: "false"
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: forest 
+      name: forest
+      url: /forest/
+      weight: 10
+#    - identifier: tags
+#      name: tags
+#      url: /tags/
+#      weight: 20
+#    - identifier: example
+#      name: example.org
+#      url: https://example.org
+#      weight: 30
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Subculture of One
+  description: "Less pretentious than it sounds."
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Greg Sarjeant
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+ 
+
+  profileMode:
+    enabled: true
+    title: "Greg Sarjeant" # optional default will be site title
+    subtitle: "everything 99 cents or less and up"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    #buttons:
+    #  - name: Trees
+    #    url: "/trees"
+    #  - name: Github
+    #    url: "https://github.com/"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/gsarjeant"
+    - name: mastodon
+      url: https://mastodon.social/@subcultureofone
+    - name: strava
+      url: https://www.strava.com/athletes/70046465
