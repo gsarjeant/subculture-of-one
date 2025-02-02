@@ -18,14 +18,18 @@ minify:
 
 menu:
   main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 15
     - identifier: forest 
       name: forest
       url: /forest/
-      weight: 10
-#    - identifier: tags
-#      name: tags
-#      url: /tags/
-#      weight: 20
+      weight: 5
 #    - identifier: example
 #      name: example.org
 #      url: https://example.org
