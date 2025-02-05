@@ -7,7 +7,7 @@ title: On the importance of friction
 aliases:
   - "/2025/01/17/on-the-importance-of-friction.html"
 weight: 10
-tags: [trees]
+tags: [trees, indieweb-carnival]
 ---
 
 

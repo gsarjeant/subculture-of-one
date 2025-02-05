@@ -10,7 +10,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-pluralizelisttitles: "false"
+pluralizelisttitles: false
 
 minify:
   disableXML: true
@@ -45,11 +45,11 @@ params:
   description: "Less pretentious than it sounds."
   keywords: [Blog, Portfolio, PaperMod]
   author: Greg Sarjeant
-  # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  usePageBundles: true
  
 
   profileMode:
@@ -67,9 +67,11 @@ params:
     #    url: "https://github.com/"
 
   socialIcons:
-    - name: github
-      url: "https://github.com/gsarjeant"
-    - name: mastodon
-      url: https://mastodon.social/@subcultureofone
+    - name: email
+      url: "mailto:greg@subcultureofone.org"
     - name: strava
       url: https://www.strava.com/athletes/70046465
+    - name: mastodon
+      url: https://mastodon.social/@subcultureofone
+    - name: github
+      url: "https://github.com/gsarjeant"
