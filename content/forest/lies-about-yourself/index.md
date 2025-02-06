@@ -38,7 +38,7 @@ Cooper also loved people. LOVED people. He would come striding into a room full 
 
 The attentive reader will have noticed that I'm writing in the past tense. On January 19, 2025, out of nowhere, he started spitting up repeatedly and was very sluggish. It was worrying enough that I took him to the emergency vet. I was worried he'd swallowed something and would need an operation to remove it. Instead, he never came home.
 
-They found that he was riddled with cancer. It had probably been progressing for years, but even if we'd known, there wasn't anything we could have done. All those years he was looking out for his brother, when he was the sick one the whole time. I went back so I could say goodbye and be with him so he wouldn't be alone at the end. He deserved at least that.
+They found that he was riddled with cancer. It had probably been progressing for years, but even if we'd known, there wasn't anything we could have done. All those years he was looking out for his brother when he was the sick one the whole time. I went back so I could say goodbye and be with him so he wouldn't be alone at the end. He deserved at least that.
 
 So what does all this have to do with affirmation? Well, after Cooper was gone, that inner monologue kicked into high gear. The night before I took him to the vet, he came over to sit on my lap. I'd just recently discovered the indieweb, so I was typing away on my laptop. I paid him scant attention and he walked off my lap and sat next to me instead. I fixated on that moment when he wanted to sit on my lap and I was more focused on my laptop. Within a few days, I'd convinced myself that I'd been neglectful and left him starved for attention and affection for his entire life.
 
