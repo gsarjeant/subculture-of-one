@@ -16,6 +16,12 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON
+
 menu:
   main:
     - identifier: about
@@ -75,3 +81,5 @@ params:
       url: https://mastodon.social/@subcultureofone
     - name: github
       url: "https://github.com/gsarjeant"
+    - name: "rss"
+      url: "https://subultureofone.org/index.xml"

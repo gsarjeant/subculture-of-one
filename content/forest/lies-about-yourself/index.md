@@ -42,7 +42,7 @@ So what does all this have to do with affirmation? Well, after Cooper was gone, 
 
 A week or so later, I was taking the train into New York City for work. I was looking out the window, beating myself up for being a bad cat dad, when out of nowhere I thought "Stop telling yourself lies about yourself." I don't think that sort of thing. It felt like it came from outside of me. And when I thought it ... I smelled Cooper.
 
-I am not a person of faith. But I am convinced that Cooper had had enough of my wallowing and decided it was time to snap me out of it. Human history is riddled with stories of visions and visitations. The locales often inspire wonder: Lourdes, Guadalupe, Fátima. I had mine on the Northeast Corridor NJ Transit line somewhere a little south of Newark. We take what we can get.
+I am not a person of faith. But I am convinced that Cooper had had enough of my wallowing and decided it was time to snap me out of it. Human history is riddled with stories of visions and visitations. The locales often inspire wonder: Lourdes, Guadalupe, Fátima. I had mine on the Northeast Corridor NJ Transit line somewhere a little south of Newark. I'll take it.
 
 So now, I start every day by repeating Cooper's mantra: "Stop telling yourself lies about yourself." Stories have power - especially the stories we tell ourselves. When you lie to yourself, you start to believe those lies. After decades of berating myself, I see myself in caricature, and it's not a particularly pleasant one.
 
