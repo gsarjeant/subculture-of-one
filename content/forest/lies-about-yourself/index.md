@@ -10,6 +10,8 @@ tags: [trees, indieweb-carnival]
 
 _This is my submission for the February, 2025 [IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival), hosted by [Joe Crawford](https://artlung.com/affirmations-ic/). The theme is "Affirmations." You shoud submit something!_
 
+---
+
 First things first: self-affirmation is not my thing. My internal monologue is a condemnation.
 
 "You aren't ..."
