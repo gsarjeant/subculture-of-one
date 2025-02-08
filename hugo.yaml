@@ -78,7 +78,7 @@ params:
     - name: strava
       url: https://www.strava.com/athletes/70046465
     - name: mastodon
-      url: https://mastodon.social/@subcultureofone
+      url: https://social.subcultureofone.org/@greg
     - name: github
       url: "https://github.com/gsarjeant"
     - name: "rss"
