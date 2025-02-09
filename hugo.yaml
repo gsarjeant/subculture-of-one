@@ -76,7 +76,7 @@ params:
     - name: email
       url: "mailto:greg@subcultureofone.org"
     - name: strava
-      url: https://www.strava.com/athletes/70046465
+      url: https://www.strava.com/athletes/greg_sarjeant
     - name: mastodon
       url: https://social.subcultureofone.org/@greg
     - name: github
