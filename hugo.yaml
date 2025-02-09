@@ -82,4 +82,4 @@ params:
     - name: github
       url: "https://github.com/gsarjeant"
     - name: "rss"
-      url: "https://subultureofone.org/index.xml"
+      url: "https://subcultureofone.org/index.xml"
