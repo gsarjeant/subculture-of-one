@@ -10,7 +10,6 @@ weight: 10
 tags: [trees, indieweb-carnival]
 ---
 
-
 Nothing happened. And then everything happened.
 
 In 2004, I bought a new laptop. It was a Gateway 200X (Do you remember the cow boxes? I remember the cow boxes). I was a fairly serious Linux user at the time, so I installed Gentoo Linux on it. Just about everything worked right away, which was both surprising and a little disappointing. It hadn't been too long since things like USB support meant you were recompiling your kernel, so rebooting from the installer into a fully functional environment left me feeling a little empty. It was a different time.
