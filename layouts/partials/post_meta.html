@@ -1,0 +1,15 @@
+{{- if not .Date.IsZero -}}
+<a href="{{ page.Permalink }}" class="u-url">
+    {{ $dt := time.AsTime page.Params.Date }}
+    {{ $publishedDate := time.Format "January 2, 2006" $dt }}
+    <time class="dt-published" datetime="{{ page.Params.Date }}">
+        {{ $publishedDate }}
+    </time>
+</a>
+{{- end }}
+
+&nbsp;·&nbsp;
+
+{{- if not (.Param "hideAuthor") -}}
+{{ .Params.author | default site.Params.author }}
+{{- end }}
