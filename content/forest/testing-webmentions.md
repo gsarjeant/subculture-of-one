@@ -4,7 +4,6 @@ draft: false
 params:
   author: Greg Sarjeant
 title: Testing Webmentions
-description: Giving webmentions a try.
 weight: 10
 tags: [seeds, indieweb]
 related:

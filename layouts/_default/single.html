@@ -25,8 +25,8 @@
       {{- partial "translation_list.html" . -}}
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
+      {{- partial "h-card.html" . -}}
     </div>
-    {{- partial "h-card.html" . -}}
     {{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
@@ -62,7 +62,6 @@
   {{- if (.Param "related") }}
   {{- partial "related.html" }}
   {{- end }}
-  {{/* Aded by GS for webmention support */}}
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
