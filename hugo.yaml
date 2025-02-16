@@ -1,4 +1,4 @@
-baseURL: https://subcultureofone.org/
+baseURL: https://subcultureofone.org
 languageCode: en-us
 title: Subculture of One
 theme: ["PaperMod"]
@@ -51,7 +51,7 @@ params:
   description: "Less pretentious than it sounds."
   keywords: [Blog, Portfolio, PaperMod]
   author: Greg Sarjeant
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images/profile.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -79,7 +79,11 @@ params:
       url: https://www.strava.com/athletes/greg_sarjeant
     - name: mastodon
       url: https://social.subcultureofone.org/@greg
+    - name: microblog
+      url: "https://micro.blog/subcultureofone"
     - name: github
       url: "https://github.com/gsarjeant"
     - name: "rss"
       url: "https://subcultureofone.org/index.xml"
+    - name: "jsonfeed"
+      url: "https://subcultureofone.org/index.json"
