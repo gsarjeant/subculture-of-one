@@ -1,0 +1,28 @@
+<hr />
+<span class="entry-hint">Outgoing Webmentions</span>
+
+{{ range page.Params.Webmentions }}
+
+<div class="h-entry">
+    <div class="u-author h-card">
+        <img src="{{ site.BaseURL }}/images/profile.png" class="u-photo" width="40">
+        <a href="{{ site.BaseURL }}" class="u-url p-name">{{ site.Params.Author }}</a>
+    </div>
+    <p>in reply to:
+        <a class="u-in-reply-to" href="{{ .url }}">
+            @{{ .author }}
+        </a>
+    </p>
+    <p class="e-content">{{ .description }}</p>
+    <p>
+        <a href="{{ page.Permalink }}" class="u-url">
+            {{ $dt := time.AsTime page.Params.Date }}
+            {{ $publishedDate := time.Format "January 2, 2006" $dt }}
+            <time class="dt-published" datetime="{{ page.Params.Date }}">
+                {{ $publishedDate }}
+            </time>
+        </a>
+    </p>
+</div>
+
+{{ end }}
