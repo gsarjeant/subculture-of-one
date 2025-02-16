@@ -7,7 +7,7 @@ title: Testing Webmentions
 description: Giving webmentions a try.
 weight: 10
 tags: [seeds, indieweb]
-webmentions:
+related:
   - author: aaronpk
     url: https://aaronparecki.com/2018/06/30/11/your-first-webmention
 ---

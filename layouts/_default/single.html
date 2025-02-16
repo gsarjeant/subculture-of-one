@@ -58,9 +58,9 @@
     {{- end }}
   </footer>
 
-  {{/* Aded by GS for webmention support */}}
-  {{- if (.Param "webmentions") }}
-  {{- partial "webmention.html" }}
+  {{/* Aded by GS for related posts (and webmentions for sites that support them) */}}
+  {{- if (.Param "related") }}
+  {{- partial "related.html" }}
   {{- end }}
   {{/* Aded by GS for webmention support */}}
   {{- if (.Param "comments") }}
