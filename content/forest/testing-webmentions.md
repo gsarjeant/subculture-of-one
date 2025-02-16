@@ -12,4 +12,4 @@ webmentions:
     description: Doin' that webmention thing
 ---
 
-This is just a quick test of webmentions, based on Aaron Parecki's [your first webmention] post. The webmention itself is displayed benerath the post content, after the tags. Once this works, I'll try auotomating the sending.
+This is just a quick test of webmentions, based on Aaron Parecki's [your first webmention](https://aaronparecki.com/2018/06/30/11/your-first-webmention) post. The webmention itself is displayed benerath the post content, after the tags. Once this works, I'll try auotomating the sending.
