@@ -13,7 +13,7 @@
             @{{ .author }}
         </a>
     </p>
-    <p class="e-content">{{ .description }}</p>
+    <p class="e-content">{{ .message }}</p>
     <p>
         <a href="{{ page.Permalink }}" class="u-url">
             {{ $dt := time.AsTime page.Params.Date }}
