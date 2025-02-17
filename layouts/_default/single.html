@@ -58,14 +58,16 @@
     {{- end }}
   </footer>
 
-  {{/* Aded by GS for related posts (and webmentions for sites that support them) */}}
+  {{/* Aded by GS to display related posts (and webmentions for sites that support them) */}}
   {{- if (.Param "related") }}
   {{- partial "related.html" }}
   {{- end }}
-  {{/* Aded by GS for replies */}}
+  {{/* Aded by GS for outgoing replies */}}
   {{- if (.Param "reply") }}
   {{- partial "reply.html" }}
   {{- end }}
+  {{/* Aded by GS for incoming webmentions */}}
+  {{- partial "webmentions.html" }}
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
