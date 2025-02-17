@@ -1,12 +1,12 @@
 <hr />
 <span class="entry-hint">Related posts</span>
 
-{{ range page.Params.Related}}
+{{- range page.Params.Related }}
 <div>
     <p>
         <a href="{{ .url }}">
-            @{{ .author }} | {{ .url }}
+            {{- if .author }} @{{ .author }} | {{- end }} {{ .url }}
         </a>
     </p>
 </div>
-{{ end }}
+{{- end }}

@@ -1,0 +1,12 @@
+<hr />
+<span class="entry-hint">In reply to</span>
+
+{{- with page.Params.Reply }}
+<div>
+    <p>
+        <a href="{{ .url }}">
+            @{{ .author }}
+        </a>
+    </p>
+</div>
+{{- end }}

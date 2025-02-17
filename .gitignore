@@ -1,3 +1,4 @@
 public/
 *.lock
 *.swp
+.DS_Store

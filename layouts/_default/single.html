@@ -62,6 +62,10 @@
   {{- if (.Param "related") }}
   {{- partial "related.html" }}
   {{- end }}
+  {{/* Aded by GS for replies */}}
+  {{- if (.Param "reply") }}
+  {{- partial "reply.html" }}
+  {{- end }}
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
