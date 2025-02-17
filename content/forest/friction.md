@@ -8,6 +8,11 @@ aliases:
   - "/2025/01/17/on-the-importance-of-friction.html"
 weight: 10
 tags: [trees, indieweb-carnival]
+related:
+  - author: vhbelvadi
+    url: https://vhbelvadi.com/indieweb-carnival-friction 
+  - author: subcultureofone
+    url: https://subcultureofone.org/forest/act-of-preservation
 ---
 
 Nothing happened. And then everything happened.
@@ -24,7 +29,7 @@ I learned that there was a specification for power management (ACPI), and that i
 
 After about a week of research, trial and error, qualified successes, and setbacks, the moment came when I hit the power button and watched my laptop gracefully shut down. I spent the next 15 minutes just turning it on and turning it back off again. I showed my wife, who graciously feigned excitement. It was immensely gratifying.
 
-I'd seen enough questions about ACPI on the Gentoo Linux forums that I wrote a [guide](https://subcultureofone.org/forest/act-of-preservation/). This was also a learning experience! When I get into writing something, I have a lot of fun. I like to tell little anecdotes, make bad jokes, go off on the occasional tangent. It turns out that when someone is reading something to fix something that's broken, they don't want any of that! I edited my guide constantly, revising it based on feedback. I learned a lot about what makes good technical writing and what doesn't.
+I'd seen enough questions about ACPI on the Gentoo Linux forums that I wrote a [guide](https://subcultureofone.org/forest/act-of-preservation). This was also a learning experience! When I get into writing something, I have a lot of fun. I like to tell little anecdotes, make bad jokes, go off on the occasional tangent. It turns out that when someone is reading something to fix something that's broken, they don't want any of that! I edited my guide constantly, revising it based on feedback. I learned a lot about what makes good technical writing and what doesn't.
 
 I also got to help a lot of people directly. Every time I was able to help someone fix their computer's ACPI implementation, I felt genuine joy. It was even more gratifying than getting it to work for myself.
 
