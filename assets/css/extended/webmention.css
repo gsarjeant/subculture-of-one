@@ -16,7 +16,7 @@
     font-size: medium;
     margin: 0;
     padding: 2px;
-    background: #ccc;
+    /* background: #ccc; */
 }
 
 #webmentions .reacts img {
@@ -24,7 +24,7 @@
 }
 
 #webmentions img.missing {
-    background: white;
+    /* background: white; */
     border: dashed black 1px;
 }
 
