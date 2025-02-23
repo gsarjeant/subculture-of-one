@@ -32,6 +32,10 @@ menu:
       name: tags
       url: /tags/
       weight: 15
+    - identifier: bookmarks
+      name: bookmarks
+      url: /bookmarks/
+      weight: 15
     - identifier: reading 
       name: reading
       url: /reading/

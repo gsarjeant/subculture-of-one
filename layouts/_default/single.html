@@ -66,6 +66,10 @@
   {{- if (.Param "reply") }}
   {{- partial "reply.html" }}
   {{- end }}
+  {{/* Aded by GS for outgoing replies */}}
+  {{- if (.Param "bookmarks") }}
+  {{- partial "bookmark.html" }}
+  {{- end }}
   {{/* Aded by GS for incoming webmentions */}}
   {{- partial "webmentions.html" }}
   {{- if (.Param "comments") }}

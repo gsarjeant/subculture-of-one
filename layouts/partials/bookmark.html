@@ -1,0 +1,13 @@
+<hr />
+<span class="entry-hint">Bookmarks:</span>
+
+{{- range page.Params.Bookmarks }}
+<div>
+    <p>
+        <a class="u-bookmark-of h-cite" href="{{ .url }}">
+            {{ .summary }}
+        </a>
+        ({{ .author}})
+    </p>
+</div>
+{{- end }}
