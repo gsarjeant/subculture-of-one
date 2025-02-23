@@ -1,6 +1,6 @@
 ---
-date: 2025-02-23T15:00:00-05:00
-draft: true
+date: 2025-02-23T00:00:00-05:00
+draft: false
 params:
   author: Greg Sarjeant
 weight: 10
