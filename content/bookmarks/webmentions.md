@@ -4,7 +4,7 @@ draft: false
 params:
   author: Greg Sarjeant
 weight: 10
-title: Webmention resournces
+title: Webmention resources
 bookmarks:
   - author: aaronpk
     url: https://aaronparecki.com/2018/06/30/11/your-first-webmention
