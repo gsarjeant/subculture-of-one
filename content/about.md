@@ -14,4 +14,4 @@ I've come back to that phrase a lot in the decades since. I like the notion that
 
 I chose the phrase for this site because it carries a lot of meaning. It reminds me of a time and a place that I loved. It recalls a silly vignette. It inspires a commitment to enrichment. But today, I think its primary purpose is to remind me to be thankful for my tailwinds and to be mindful of others' headwinds.
 
-The tale also has an element of the absurd. I later tried - and failed - to dye the "N" purple. The circumstances of that failure make a good story of their own. One for another time.
+The tale also has an element of the absurd. I later tried - and failed - to dye the "N" purple. The circumstances of that failure make a good story of their own. One for [another time](/2025/03/02/another-time/).

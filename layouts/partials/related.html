@@ -5,7 +5,7 @@
 <div>
     <p>
         <a href="{{ .url }}">
-            {{- if .author }} @{{ .author }} | {{- end }} {{ .url }}
+            {{- if .author }} @{{ .author }}  {{- else }} {{ .url }}  {{- end }}
         </a>
     </p>
 </div>
