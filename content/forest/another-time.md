@@ -32,12 +32,10 @@ One night, 7 or 8 of us were gathered. There was chemistry going on. After a cou
 
 From the laundry room.
 
-It was Clorox.
-
-Now, Clorox is a powerful bleach. It will make your whites whiter. It will make your blues whiter. If you throw it at some laundry, it's going to make it whiter. What it will not do particularly well is make your _hair_ whiter. Somehow, in a house full of advanced Chemistry students, none of us knew this. And so we jumped into the exercise with gusto.
+Now, Clorox is a powerful bleach. It will make your whites whiter. It will make your blues whiter. If you throw it at some laundry, it's going to make it whiter. What it will not do particularly well is make your _hair_ whiter. Somehow, in a house full of advanced Chemistry students, none of us knew this. We jumped into the exercise with gusto.
 
 While Clorox isn't great at bleaching hair, it is _fantastic_ at administering chemical burns. It's even better at this if applied to something like, say, a freshly shaved scalp. After about 20 minutes of lying over a bathtub saying things like "Ow" and "No, it's cool, keep going," I stood up to find a prefectly brown "N" in the back of my head and a ring of red, scabbed skin around it. This was the end of the N-purpling experiment.
 
 For the next couple of weeks, I walked around with that ring around my head. I'm not sure whether it or the "N" got more attention. 
 
-I had set out to express school spirit, and while the attempt was at best a partial success, I did still manage a feat of self-expression. For a couple weeks in the fall of 1996, anyone who looked at me could know from a glance at my forehead that I didn't know the first thing about dying hair and that I wasn't above doing dumb if well-intentioned things in the name of a good time. The first is no longer true - I got a pretty cool blue-black going a couple years later. The second has faded over the years, but I think I'll try to rekindle some of that spirit.
+I had set out to express school spirit, and while the attempt was at best a partial success, I did still manage a feat of self-expression. For a couple weeks in the fall of 1996, anyone who looked at me could know from a glance at my forehead that I had no idea how to dye hair and that I wasn't above doing dumb if well-intentioned things in the name of a good time. The first is no longer true - I got a pretty cool blue-black going a couple years later. The second has faded over the years, and that's a shame. I think it's time I rekindle that spirit. I could stand to take myself less seriously.
