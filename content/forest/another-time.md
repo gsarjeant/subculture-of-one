@@ -28,7 +28,7 @@ The problem was that my hair is brown. Northwestern's "N" is purple. I'd already
 
 \* we weren't English majors
 
-One night, 7 or 8 of us were gathered. There was chemistry going on. After a couple hours, I revealed my intention to dye my "N" purple, and everyone was eager to help. We knew that I probably needed to bleach my hair first before a color would take, so we figured we could take care of that and then I could figure out the purple part later. I headed over to the tub to get ready for the bleaching while someone else went to get the bleaching agent.
+One night, 7 or 8 of us were gathered. There was chemistry going on. After a couple hours, I revealed my intention to dye my "N" purple and everyone was eager to help. We knew that I probably needed to bleach my hair first before a color would take, so we figured we could take care of that and then I could figure out the purple part later. I headed over to the tub to get ready for the bleaching while someone else went to get the bleaching agent.
 
 From the laundry room.
 
