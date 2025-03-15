@@ -5,7 +5,7 @@ params:
   author: Greg Sarjeant
 title: IndieWeb First Thoughts
 weight: 10
-tags: [saplings, indieweb]
+tags: [indieweb]
 ---
 
 The IndieWeb is many things. A collection of websites. A set of tools. A community of people. A philosophy.

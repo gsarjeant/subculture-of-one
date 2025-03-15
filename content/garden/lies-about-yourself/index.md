@@ -4,8 +4,11 @@ draft: false
 params:
   author: Greg Sarjeant
 title: Stop telling yourself lies about yourself
+url:  2025/02/05/lies-about-yourself
 weight: 10
-tags: [trees, indieweb-carnival]
+aliases:
+  - forest/lies-about-yourself
+tags: [indieweb-carnival]
 ---
 
 _This is my submission for the February, 2025 [IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival), hosted by [Joe Crawford](https://artlung.com/affirmations-ic/). The theme is "Affirmations." You shoud submit something!_

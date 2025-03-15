@@ -4,10 +4,12 @@ draft: false
 params:
   author: Greg Sarjeant
 title: On the importance of friction
+url: 2025/01/17/friction
 aliases:
-  - "/2025/01/17/on-the-importance-of-friction.html"
+  - /2025/01/17/on-the-importance-of-friction.html
+  - /forest/friction
 weight: 10
-tags: [trees, indieweb-carnival]
+tags: [indieweb-carnival]
 related:
   - author: vhbelvadi
     url: https://vhbelvadi.com/indieweb-carnival-friction 

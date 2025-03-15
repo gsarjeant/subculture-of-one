@@ -5,8 +5,10 @@ params:
   author: Greg Sarjeant
 title: Another time
 url:  2025/03/02/another-time
+aliases:
+  - /forest/another-time
 weight: 10
-tags: [indieweb-carnival, trees]
+tags: [indieweb-carnival]
 related:
   - author: Pablo Morales
     url: https://lifeofpablo.com/blog/self-expression-indieweb-carnival-march-2025

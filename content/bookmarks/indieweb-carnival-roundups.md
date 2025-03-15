@@ -9,6 +9,9 @@ bookmarks:
   - author: vhbelvadi
     url: https://vhbelvadi.com/indieweb-carnival-roundup-2025
     summary: January 2025 - On the importance of friction
+  - author: artlung
+    url: https://artlung.com/blog/2025/03/07/blog-carnival-roundup/
+    summary: February 2025 - Affirmations
 ---
 
 Each month, the IndieWeb Community hosts a [blog carnival](https://indieweb.org/IndieWeb_Carnival), where a member of the IndieWeb community sets a writing prompt and people from the community write posts that relate to the prompt. Each roundup page gathers all of the posts submitted for a given month. I plan to submit something each month, but even if I don't, I'd like to have a convenient way to get to all the submissions.

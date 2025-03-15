@@ -4,10 +4,12 @@ draft: false
 params:
   author: Greg Sarjeant
 title: An act of preservation
+url:  2025/01/16/act-of-preservation
 aliases:
-  - "/2025/01/17/an-act-of-preservation.html"
+  - /2025/01/17/an-act-of-preservation.html
+  - /forest/act-of-preservation
 weight: 10
-tags: [stumps]
+tags: [archive]
 ---
 
 This is a guide that I wrote for the [gentoo forums](https://forums.gentoo.org/viewtopic-t-122145.html) in 2004. I've been thinking about submitting a piece for this month's [IndieWeb Carnival](https://vhbelvadi.com/indieweb-carnival-friction) and I think my experience with ACPI in the early 2000s is a good topic for the theme: On the Importance of Friction.
