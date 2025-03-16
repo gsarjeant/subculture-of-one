@@ -7,7 +7,7 @@ title: Stop telling yourself lies about yourself
 url:  2025/02/05/lies-about-yourself
 weight: 10
 aliases:
-  - forest/lies-about-yourself
+  - /forest/lies-about-yourself
 tags: [indieweb-carnival]
 ---
 
