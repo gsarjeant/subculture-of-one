@@ -35,7 +35,7 @@ A bit of a slow morning after the previous day's activity. About 10 in the morni
 
 We played [skittles](https://en.wikipedia.org/wiki/Skittles_(sport))! I'd never played before. Okay, I'd never heard of it before. It reminded me of going [duckpin bowling](https://en.wikipedia.org/wiki/Duckpin_bowling) when I lived in Baltimore. Duckpins are smaller, but the lanes and balls were similar (we played indoors - it's apparently also an outdoor activity). We each threw a frame and I won with 8 pins. This never happens when I bowl. I'm a skittles convert.
 
-We wandered through the Grassmarket again, but this time up some different streets. A different scene from Sunday - quieter. We  had a late lunch of delightful Bahn Mi at [Bahn Mi Brothers](https://www.happycow.net/reviews/banh-mi-brothers-edinburgh-414596). I had my first Turkish coffee - the server seemed tickled. If I ever find it in New Jersey I'll have another. We stopped off for a couple hours rest and then dinner at Lucky Yu followed by cocktails at [Panda and Sons](http://pandaandsons.co.uk). Such a fun place! One of the coolest bars I've been to - cocktail or otherwise.
+We wandered through the Grassmarket again, but this time up some different streets. A different scene from Sunday - quieter. We  had a late lunch of delightful Banh Mi at [Banh Mi Brothers](https://www.happycow.net/reviews/banh-mi-brothers-edinburgh-414596). I had my first Turkish coffee - the server seemed tickled. If I ever find it in New Jersey I'll have another. We stopped off for a couple hours rest and then dinner at Lucky Yu followed by cocktails at [Panda and Sons](http://pandaandsons.co.uk). Such a fun place! One of the coolest bars I've been to - cocktail or otherwise.
 
 ## Day 4
 
