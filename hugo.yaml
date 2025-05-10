@@ -11,6 +11,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 pluralizelisttitles: false
+robotsNoIndex: true
 
 minify:
   disableXML: true
@@ -83,8 +84,6 @@ params:
   socialIcons:
     - name: email
       url: "mailto:greg@subcultureofone.org"
-    - name: strava
-      url: https://www.strava.com/athletes/greg_sarjeant
     - name: mastodon
       url: https://social.subcultureofone.org/@greg
     - name: microblog
