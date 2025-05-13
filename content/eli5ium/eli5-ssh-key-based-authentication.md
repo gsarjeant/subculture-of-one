@@ -5,7 +5,7 @@ params:
   author: Greg Sarjeant
 title: SSH key-based authentication
 url: 2025/05/12/eli5-ssh-key-based-authentication
-tags: [eli5ium]
+tags: [tech stuff]
 weight: 10
 ---
 I never used to be able to get SSH keys to work. I was always mixing up where the public key goes and where the private key goes. For some reason the model never clicked. Now it makes sense, but I've been thinking about how I might have explained this to confused Greg back in earlier times.
