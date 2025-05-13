@@ -3,7 +3,7 @@ date: 2025-05-12T00:00:00-05:00
 draft: false
 params:
   author: Greg Sarjeant
-title: SSH Key-based authentication
+title: SSH key-based authentication
 url: 2025/05/12/eli5-ssh-key-based-authentication
 tags: [eli5ium]
 weight: 10
