@@ -26,7 +26,7 @@ _A tale of self-expression gone awry_
 
 After [shaving an "N" into my head](/about/) in a perhaps excessive display of school spirit, I had a problem. No, the problem was not that I had shaved an "N" into my head. Down in the back, hecklers.
 
-The problem was that my hair is brown. Northwestern's "N" is purple. I'd already gone this far. I had to finish the job. I didn't know the first thing about dying hair, but I was in the Chemistry department! All of my friends were in the Chemistry department! And they were _graduate students_! I was surrounded by some of the finest chemical minds in the country. This was going to be the purplest* "N" you ever saw.
+The problem was that my hair is brown. Northwestern's "N" is purple. I'd already gone this far. I had to finish the job. I didn't know the first thing about dyeing hair, but I was in the Chemistry department! All of my friends were in the Chemistry department! And they were _graduate students_! I was surrounded by some of the finest chemical minds in the country. This was going to be the purplest* "N" you ever saw.
 
 \* we weren't English majors
 
