@@ -14,7 +14,7 @@ I laughed for a good minute. Now I use that phrase wherever I can - you might ha
 
 First, it's universally true! You could stick that sign in any store window anywhere on earth and it would work. Sure, it would be absurd in, say, a car dealership. But it would still be correct.
 
-But I really loved it because it was a real-life encounter with a [six-word story](https://en.wikipedia.org/wiki/For_sale:_baby_shoes,_never_worn) (technically seven, but I'm taking liberties with "99¢"). You could read the entire history of that store in those 3 lines. I keep making up backstories for the sign.
+It's also my only chance encounter with a [six-word story](https://en.wikipedia.org/wiki/For_sale:_baby_shoes,_never_worn) (technically seven, but I'm taking liberties with "99¢"). You could read the entire history of that store in those 3 lines. I keep making up backstories for the sign.
 
 > The store started life as a 99-cent shop. Life was simple. Predictable. Then one day a shipment arrives: packs of gum for 50 cents. That night, as the manager is closing up shop, they glance to their left and see the sign in the window: "Everything 99¢." _Shit._
 >
