@@ -19,7 +19,7 @@ Now, I don't know anything about `mwilson` except that they were on #debian even
 
 _You DID NOT want_ `mwilson` _to notice your question._
 
-If `mwilson` responded to your question, you were getting an answer. You just weren't getting an answer to your question. You were going to learn why you shouldn't have asked it. Or why you shouldn't have asked it the way you asked it. Or what else you should have done before you asked it. Or why you shouldn't even be trying to do the thing that led you to ask the question in the first place.
+If `mwilson` responded to your question, you were getting an answer. You just probably weren't getting an answer to your question. You were going to learn why you shouldn't have asked it. Or why you shouldn't have asked it the way you asked it. Or what else you should have done before you asked it. Or why you shouldn't even be trying to do the thing that led you to ask the question in the first place.
 
 Now, `mwilson` wasn't the first person to make you feel small when they answered your question. They weren't the last. It's a [well-known phenomenon](https://xkcd.com/386/). But at that time, in that space, `mwilson` was the Michael Jordan of withering responses.
 
