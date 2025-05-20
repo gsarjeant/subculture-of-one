@@ -35,7 +35,7 @@ But those answers weren't always easy to find. If you did find them, they weren'
 
 I still don't. It takes me forever to write a blog post. Or an email to someone. Or a reply to an email someone sent me. Or a text. I've been thinking about this for a while and I've realized that one of the reasons is that I'm suffering from the `mwilson` effect. I expect the reader to have their knives out. So I proofread everything at least 3 times. I worry about how it might be misinterpreted. Did I get the tone right? Did I actually say what I meant to say? Is it obvious that I said what I meant to say?
 
-But a more insidious behavior has crept into my writing. I start anticipating the attacks that are going to come. Maybe you wouldn't have done what I did. Maybe your experience was different. Maybe you felt otherwise. Whatever the reason, I start crafting your withering reply in my head. Then I try to beat you to the punch.
+But a more insidious behavior has crept into my writing. I anticipate the attacks that are going to come. Maybe you wouldn't have done what I did. Maybe your experience was different. Maybe you felt otherwise. Whatever the reason, I start crafting your withering reply in my head. Then I try to beat you to the punch.
 
 I'll say things like "You might be thinking..." or "Before you tell me..." or "I know this isn't how most people would do it..." If I say it first, then someone else is less likely to attack me, right? I'm so worried about being called out that I spend more energy responding to hypothetical reactions than I do writing the actual thing I wanted to say.
 
